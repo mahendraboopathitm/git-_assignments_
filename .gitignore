@@ -1,0 +1,12 @@
+# ignore log files
+*.log
+# ignore env files
+.env
+# ignore python cache
+__pycache__/
+# ignore node modules
+node_modules/
+
+none.txt
+
+
