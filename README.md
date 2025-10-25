@@ -97,15 +97,62 @@ Environment: Git Bash (Windows 11), GitHub Desktop.
 <img width="1714" height="739" alt="image" src="https://github.com/user-attachments/assets/3b26533f-7643-4fb1-a787-67392e26967d" />
 
 <img width="1735" height="788" alt="Screenshot 2025-10-25 124901" src="https://github.com/user-attachments/assets/94797f86-b6f3-4edf-bf8e-0a7d6ecc6060" />
-
+### commit messages
 <img width="1567" height="758" alt="Screenshot 2025-10-25 130208" src="https://github.com/user-attachments/assets/83357be8-7d4f-4f72-970c-b3d284de7cbc" />
-
+### merged
 <img width="1367" height="406" alt="image" src="https://github.com/user-attachments/assets/aaa13dae-8169-41e3-af78-722f0f959277" />
 
+## Step 7:As another user in the master branch make some changes to the same file.
+<img width="950" height="296" alt="image" src="https://github.com/user-attachments/assets/5eec4f97-8709-4a19-bb12-bb3a2166eb3a" />
+
+## Step 8: Add and commit the changes to the master branch.
+
+<img width="1158" height="591" alt="image" src="https://github.com/user-attachments/assets/e0476556-2e24-497c-adeb-16ec53f28cb6" />
+
+## Step 9:Push the changes to the master branch.
+
+<img width="1103" height="263" alt="image" src="https://github.com/user-attachments/assets/9fa6f006-ee53-4f93-b0db-6310de7e5736" />
+
+# Note: There will be a conflict in the pull request, how do we resolve it??
+## Hint: git rebase
+
+### step 1:
+<img width="1281" height="73" alt="image" src="https://github.com/user-attachments/assets/60661576-6c27-467c-80f4-0f955c3b6005" />
+
+### step 2:
+
+<img width="1538" height="66" alt="image" src="https://github.com/user-attachments/assets/22e9305d-6863-4d40-9a07-b8be012604ca" />
+
+# Question 4 — Cherry-Pick Commits
+## Step 1: Create a feature branch.
+
+<img width="1492" height="301" alt="image" src="https://github.com/user-attachments/assets/92303c89-2b3b-4f48-bd8a-8f509b2b3887" />
+
+ # #1
+<img width="1156" height="279" alt="image" src="https://github.com/user-attachments/assets/19e356e8-2360-4016-824d-9d60b643bb21" />
+
+# #2
+
+<img width="1190" height="197" alt="image" src="https://github.com/user-attachments/assets/5d9a20f7-09ca-455b-93a4-1a94b745a98d" />
+
+# #3
+
+<img width="1070" height="195" alt="image" src="https://github.com/user-attachments/assets/31d3314c-414d-4c98-9fd5-780343a3e40b" />
+ 
+## Step 3:Identify the commit or commits that you want to "cherry-pick"(Note the hash of the commit or commits that you want to "cherry-pick")
+
+<img width="1225" height="348" alt="image" src="https://github.com/user-attachments/assets/154711d0-eac1-45e2-8eec-337ae9e3ea0a" />
 
 
+## Step 4:Use the "git checkout" command to switch to the branch where you want to apply the changes.Use the "git cherry-pick" command followed by the commit hash(es) that you want to apply.
 
 
+<img width="1503" height="816" alt="image" src="https://github.com/user-attachments/assets/160d979a-349a-40f7-a7e2-68a6df89d337" />
+
+
+#  Question 5 — Reset vs Revert
+## Step 1:
+## Step 1: Create a feature branch.
 
 
 
