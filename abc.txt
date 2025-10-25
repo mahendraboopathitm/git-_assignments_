@@ -1,3 +1,6 @@
 making changes in text file first time
+<<<<<<< HEAD
 making changes in text file second time
 making changes in text file last time
+=======
+>>>>>>> e26f9a2 (making changes in text file first time)
