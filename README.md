@@ -92,10 +92,13 @@ Environment: Git Bash (Windows 11), GitHub Desktop.
 
 ## Step 6: Create a pull request.
 
-## Compare & Pull request
+## Compare & Pull request 
 
+<img width="1714" height="739" alt="image" src="https://github.com/user-attachments/assets/3b26533f-7643-4fb1-a787-67392e26967d" />
 
+<img width="1735" height="788" alt="Screenshot 2025-10-25 124901" src="https://github.com/user-attachments/assets/94797f86-b6f3-4edf-bf8e-0a7d6ecc6060" />
 
+## 
 
 
 
