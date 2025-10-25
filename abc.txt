@@ -1,4 +1,7 @@
 making changes in text file first time
+<<<<<<< HEAD
+=======
+>>>>>>> e26f9a2 (making changes in text file first time)
 =======
 >>>>>>> e26f9a2 (making changes in text file first time)
 =======
