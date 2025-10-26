@@ -128,14 +128,14 @@ Environment: Git Bash (Windows 11), GitHub Desktop.
 
 <img width="1492" height="301" alt="image" src="https://github.com/user-attachments/assets/92303c89-2b3b-4f48-bd8a-8f509b2b3887" />
 
- # #1
+ # 1
 <img width="1156" height="279" alt="image" src="https://github.com/user-attachments/assets/19e356e8-2360-4016-824d-9d60b643bb21" />
 
-# #2
+# 2
 
 <img width="1190" height="197" alt="image" src="https://github.com/user-attachments/assets/5d9a20f7-09ca-455b-93a4-1a94b745a98d" />
 
-# #3
+# 3
 
 <img width="1070" height="195" alt="image" src="https://github.com/user-attachments/assets/31d3314c-414d-4c98-9fd5-780343a3e40b" />
  
@@ -152,11 +152,49 @@ Environment: Git Bash (Windows 11), GitHub Desktop.
 
 #  Question 5 — Reset vs Revert
 ## Step 1:
-## Step 1: Create a feature branch.
+## Step 1: Create a new branch named branch1.
+<img width="1185" height="323" alt="image" src="https://github.com/user-attachments/assets/77e14e75-9d6c-4dbe-ba7f-dd13472e3d19" />
+
+## step 2: switch to new branch:
+
+<img width="1185" height="323" alt="image" src="https://github.com/user-attachments/assets/56331bf5-0d6b-49b3-80ed-6ca67c078784" />
+
+## open the file and make some changes to it. Add and commit the changes to the new branch:
+
+# 1
+<img width="1241" height="272" alt="image" src="https://github.com/user-attachments/assets/d9a65e49-a2c3-4c0b-9239-328cd500face" />
+
+# 2 
+
+<img width="1134" height="257" alt="image" src="https://github.com/user-attachments/assets/6f388572-dbce-4548-8052-85a96b92058c" />
+
+# 3
+<img width="1104" height="268" alt="image" src="https://github.com/user-attachments/assets/bad199fa-b889-4c63-a738-35fcd007da8c" />
+
+## step 3:Use the "git log" command to view the commit history and identify the commit to which you want to reset.
+
+<img width="1462" height="499" alt="image" src="https://github.com/user-attachments/assets/83640d56-4bd5-4314-b838-c1e3cead5d0a" />
+
+## step 4:Use the "git reset" command followed by the desired reset type and the commit hash
+
+<img width="1157" height="108" alt="image" src="https://github.com/user-attachments/assets/a58c8c76-8f97-4328-8c07-3b1cd6bfd779" />
+
+## step 5: Verify that the reset was successful by using the "git log" command again.
+
+<img width="1127" height="58" alt="image" src="https://github.com/user-attachments/assets/fa8b6292-bfa1-46c1-b2f0-b4a0156feada" />
+
+## Step 6:Use the "git log" command to view the commit history and identify the commit that you want to reverse.
+
+<img width="1134" height="218" alt="image" src="https://github.com/user-attachments/assets/e1f7d00d-fcf8-43ff-bafe-487d022ee153" />
+
+## Step 7: Use the "git revert" command followed by the commit hash or reference to which you want to revert. (Hint: git revert )
+
+<img width="1111" height="166" alt="image" src="https://github.com/user-attachments/assets/a0659625-c3ea-480e-9f95-cc441b144a8b" />
 
 
+## Step 8:Verify that the revert was successful by using the "git log" command again.
+
+<img width="1538" height="130" alt="image" src="https://github.com/user-attachments/assets/a59546fd-e055-4619-a5ef-5a8703f2a47f" />
 
 
-
-
-
+# Note: Identify the difference between git log after git reset and git revert.
