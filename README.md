@@ -97,12 +97,17 @@ Environment: Git Bash (Windows 11), GitHub Desktop.
 <img width="1714" height="739" alt="image" src="https://github.com/user-attachments/assets/3b26533f-7643-4fb1-a787-67392e26967d" />
 
 <img width="1735" height="788" alt="Screenshot 2025-10-25 124901" src="https://github.com/user-attachments/assets/94797f86-b6f3-4edf-bf8e-0a7d6ecc6060" />
-### commit messages
+
+## commit messages:
+
 <img width="1567" height="758" alt="Screenshot 2025-10-25 130208" src="https://github.com/user-attachments/assets/83357be8-7d4f-4f72-970c-b3d284de7cbc" />
-### merged
+
+## merged:
+
 <img width="1367" height="406" alt="image" src="https://github.com/user-attachments/assets/aaa13dae-8169-41e3-af78-722f0f959277" />
 
 ## Step 7:As another user in the master branch make some changes to the same file.
+
 <img width="950" height="296" alt="image" src="https://github.com/user-attachments/assets/5eec4f97-8709-4a19-bb12-bb3a2166eb3a" />
 
 ## Step 8: Add and commit the changes to the master branch.
